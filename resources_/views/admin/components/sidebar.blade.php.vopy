@@ -1,0 +1,33 @@
+<div class="left-side" style="width:200px">
+<section class="left-section">
+	<div class= "content">
+		<ul class="horizontal-list icons">
+			<li><a href="#"><i class="material-icons text-info fsize" title="Advanced tables">view_module</i></a></li>
+			<li><a href="#"><i class="material-icons text-danger fsize" title="Advanced tables">view_list</i></a></li>
+			<li><a href="#"><i class="material-icons text-success fsize" title="Advanced tables">photo_library</i></a></li>
+			<li><a href="#"><i class="material-icons text-warning fsize" title="Advanced tables">group</i></a></li>
+		</ul>
+		<!-- <div class="clearfix"></div> -->
+
+		<ul class="menu zerostyle" id="sidebar-menu">
+			<li>
+		        <a href="#">
+		            <i class="material-icons text-primary leftsize">home</i>
+		            <span class="title">Dashboard</span>
+		        </a>
+			</li>
+			<li>
+		        <a href="#">
+		            <i class="material-icons text-success leftsize">shopping_basket</i>
+		            <span class="title">Catalog</span> <i class="fa fa-arrow"></i>
+		        </a>
+		        <ul class="sub-menu collapse" aria-expanded="false">
+		        	<li><a href="#"> Manage Products </a></li>
+		        	<li><a href="#"> Manage Categories </a></li>
+		        </ul>
+			</li>
+		</ul>
+
+	</div>
+</section>
+</div>
